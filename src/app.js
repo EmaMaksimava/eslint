@@ -13,3 +13,5 @@ function loopArray(arr) {
 }
 
 loopArray([1, 2, 3, 4, 5]);
+loopArray([10, 20, 30, 40, 50]);
+loopArray([100, 200, 300, 400, 500]);
